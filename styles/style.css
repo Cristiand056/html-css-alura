@@ -128,7 +128,7 @@ body{
     font-weight: 400;
 }
 
-@media (max-width: 12000px){
+@media (max-width:1200px){
 
     header{
         padding: 10%;
